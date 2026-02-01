@@ -47,7 +47,7 @@ SwayBG+ is a powerful, feature-rich background manager specifically designed for
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/swaybgplus.git
+git clone https://github.com/neotecdigital/swaybgplus.git
 cd swaybgplus
 
 # Install dependencies
